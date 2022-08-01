@@ -1,6 +1,6 @@
 # 3.3 // Imutabilidade, Representação, Formato e Coesão // Coord
 
-Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <>
+Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <https://classroom.github.com/a/y6Yre8De>
 
 Implementar respeitando os fundamentos de Orientação a Objetos.
 
