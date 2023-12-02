@@ -138,7 +138,7 @@ System.out.println(coord3.toString()); // -63.3034, -76.9453
 System.out.println(coord3.toString().equals("-63.3034, -76.9453")); // -63.3034, -76.9453
 
 Coord coord4 = Coord.fromString("-63.3034, -76.9453");
-System.out.println(coord4.toGrausMinutosSegundos().equals("63°18'12.300\"S, 76°56'43.120\"W"));
+System.out.println(coord4.toGrausMinutosSegundos().equals("63°18'12.240\"S, 76°56'43.080\"W"));
 ```
 
 **Conversor de Coordenadas:** <http://maps.marnoto.com/conversor-coordenadas/>.
